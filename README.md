@@ -1,14 +1,6 @@
 # zabbix-wechat
 
 <span style="color:red">zabbix接入企业微信告警</span>
-<p style="color:red">要修改颜色的文本</p>
-- 要修改颜色的文本
-+ 要修改颜色的文本 {color:red}
-
-
-
-
-
 
 
 1、将wechat.py拷贝至/usr/lib/zabbix/alertscripts/目录下，按照响应参数修改
