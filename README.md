@@ -6,6 +6,7 @@ zabbix接入企业微信告警
 
 1、将wechat.py拷贝至/usr/lib/zabbix/alertscripts/目录下，按照响应参数修改
 
+'''
 第40行:  “toparty”:“2”, #企业部门id。
 
 第42行： “agentid”:“100035”, #企业号中的应用id。
@@ -13,6 +14,7 @@ zabbix接入企业微信告警
 第61行： corpid = ‘22jsaooasbf23934’ #CorpID是企业号的标识
 
 第62行： corpsecret = ‘410Jsk8_4lvCQYmdo92-sdfafsadfasdfxzc’ #corpsecretSecret是管理组凭证密钥
+'''
 
 2、执行测试，python /usr/lib/zabbix/alertscripts/wechat.py aaabbbccc abc 1234
 
