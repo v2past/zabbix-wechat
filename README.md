@@ -1,6 +1,8 @@
 # zabbix-wechat
 
 <span style="color:red">zabbix接入企业微信告警</span>
+<p style="color:red">要修改颜色的文本</p>
+
 
 
 
