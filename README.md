@@ -17,6 +17,7 @@ zabbix接入企业微信告警
 
 3、界面配置，打开zabbix后台
 <img width="818" alt="image" src="https://user-images.githubusercontent.com/24469322/231050171-9de6ae39-17d5-4ff9-bf98-1ba469c9fa71.png">
+
 添加3个参数，分别是{ALERT.SENDTO} 、{ALERT.SUBJECT}  、{ALERT.MESSAGE}  
 
 4、配置动作和用户即可。
