@@ -5,6 +5,7 @@ zabbix接入企业微信告警
 
 
 1、将wechat.py拷贝至/usr/lib/zabbix/alertscripts/目录下，按照响应参数修改
+
 第40行:  “toparty”:“2”, #企业部门id。
 
 第42行： “agentid”:“100035”, #企业号中的应用id。
